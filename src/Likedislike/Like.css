@@ -1,0 +1,14 @@
+#box{
+    width: 12vw;
+    height: 20vh;
+    border: 3px solid black;
+    margin: auto;
+    margin-top: 5%;
+    background-color: lightcoral;
+    border-radius: 10%;
+  }
+  #likeb,#disb{
+    margin-left: 8%;
+    background-color: gray;
+    border-radius: 5%;
+  }

@@ -1,15 +1,28 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
-// import Main from './component/Main';
+import Searchbar from './Searchbar1/Searchbar'
+// import Todo from './Todolist1/Todo';
+// import Table from './Table1/Table'
+// import App from './App';
+// import Main from './Component/Main';
+import Likebtn from './Likedislike/Likebtn';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
-    {/* <Main/> */}
+    {/* <Main /> */}
+
+    {/* <Likebtn /> */}
+    {/* <Table/> */}
+    {/* <Todo/> */}
+    <Searchbar/>
+    
+
+    {/* <App /> */}
+    
+ 
   </React.StrictMode>
 );
 

@@ -1,0 +1,58 @@
+td{
+    width: 12vw;
+    height: 5vh;
+    border: 2px solid rgb(241, 58, 58);
+    background-color: rgb(255, 210, 222);
+    border-radius: 8%;
+  
+  }
+  button{
+    width: 9vw;
+    height: 6vh;
+    border-radius: 7%;
+    margin-left: 1%;
+    background-color: gray;
+  
+  }
+  table{
+    border: 2px solid black;
+    width: 50%;
+    margin-left: 25%;
+    background-color:black
+  }
+  
+  #data1{
+    margin-left: 40%;
+    margin-top: 2%;
+    width: 9vw;
+    height: 5vh;
+    border-radius: 8%;
+    border-color: red;
+    text-align: center;
+    background-color: rgb(79, 211, 255);
+    color: black;
+  }
+  #data{
+    margin-left: 1%;
+    margin-top: 2%;
+    width: 9vw;
+    height: 5vh;
+    margin-bottom: 5%;
+    border-radius: 5%;
+    border-color:red;
+    text-align: center;
+    background-color: rgb(79, 211, 225);
+  
+  }
+  #data2,#data3,#data4{
+    margin-left: 0.2%;
+    margin-top: 2%;
+    width: 9vw;
+    height: 5vh;
+    border-radius: 5%;
+    border-color:red;
+    text-align: center;
+    background-color: rgb(79, 211, 255);
+  
+  }
+  

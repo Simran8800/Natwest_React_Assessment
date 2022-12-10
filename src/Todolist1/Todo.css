@@ -1,0 +1,54 @@
+/* 3.todolist */
+
+table{
+    border: 2px solid black;
+    margin-left: 40%;
+    background-color: black;
+  
+  }
+  h1{
+    color: rgb(217, 44, 44);
+    margin-left: 28%;
+  }
+  #todo1{
+    width: 50%;
+    height: 13%;
+    font-size: 130%;
+    margin-left: 7%;
+    background-color: lightblue;
+    text-align: center;
+    border-radius: 5%;
+    
+  }
+  #todo{
+    width: 30%;
+    font-size: 110%;
+    margin-left: 4%;
+    background-color: rgb(189, 188, 188);
+    border-radius: 7%;
+  }
+  h3{
+    margin-left: 42%;
+    color: white;
+  }
+  #del{
+    width: 20%;
+    color: red;
+    background-color: rgb(245, 223, 223);
+    margin-left: 23%;
+  }
+  #edit{
+    width: 20%;
+    color: blue;
+    margin-left: 2%;
+    background-color: rgb(245, 204, 210);
+  }
+  #complete{
+    width: 20%;
+    color: red;
+    background-color: rgb(245, 223, 223);
+    margin-left: 2%;
+    margin-bottom: 6%;
+  }  
+  
+  
