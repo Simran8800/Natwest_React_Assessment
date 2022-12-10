@@ -5,19 +5,19 @@ import Searchbar from './Searchbar1/Searchbar'
 // import Todo from './Todolist1/Todo';
 // import Table from './Table1/Table'
 // import App from './App';
-// import Main from './Component/Main';
-import Likebtn from './Likedislike/Likebtn';
+import Main from './Component/Main';
+// import Likebtn from './Likedislike/Likebtn';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    {/* <Main /> */}
+    <Main />
 
     {/* <Likebtn /> */}
     {/* <Table/> */}
     {/* <Todo/> */}
-    <Searchbar/>
+    {/* <Searchbar/> */}
     
 
     {/* <App /> */}
